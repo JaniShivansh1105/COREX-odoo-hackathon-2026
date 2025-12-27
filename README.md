@@ -1,2 +1,5 @@
-# COREX-odoo-hackathon-2026
-COREX team submission for Odoo x Adani University Hackathon 2026
+## Team Members
+- Team Leader: Shivansh Jani
+- Member 2: Durgesh Singh
+- Member 3: Aarchi Shah
+- Member 4: Harin Joshi
